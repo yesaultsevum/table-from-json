@@ -1,0 +1,19 @@
+{
+  "name": "table-from-json",
+  "version": "1.0.0",
+  "description": "render HTML table from JSON",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesaultsevum/table-from-json.git"
+  },
+  "author": "'yesaultsevum' <'yesaultsevum@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yesaultsevum/table-from-json/issues"
+  },
+  "homepage": "https://github.com/yesaultsevum/table-from-json#readme"
+}
